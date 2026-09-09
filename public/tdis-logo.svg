@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <!-- Hexagon Badge -->
+  <polygon points="24,6 40,15 40,33 24,42 8,33 8,15" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" fill="none"/>
+  <path d="M16 23 L22 29 L32 17" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- TDIS Wordmark -->
+  <text x="48" y="28" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" letter-spacing="1">TDIS</text>
+  <text x="49" y="38" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6.5" font-weight="600" letter-spacing="0.8">TEXAS DISASTER INFORMATION SYSTEM</text>
+</svg>

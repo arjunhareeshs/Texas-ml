@@ -1,0 +1,6 @@
+{
+  "name": "TDIS Disaster Management Map Dashboard",
+  "description": "Texas Disaster Information System interactive situational awareness GIS dashboard for disaster response operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
